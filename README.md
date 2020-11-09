@@ -8,6 +8,6 @@ Swift Playgrounds in this repository were used to calculate the potential fate o
 
 ## Examples
 ![Alt text](Screenshots/4thNov13-00PT.jpg?raw=true "Title")
-At about 13:00 PT in 4th of November, results from `CurrentElectoralColleges` showed that Arizona and Nevada would be just enough for Biden to win.
+At about 13:00 PT on 4th of November, results from `CurrentElectoralColleges` showed that Arizona and Nevada would be just enough for Biden to win.
 ![Alt text](Screenshots/pennsylvania.jpg?raw=true "Title")
 Using `RemainingVotesCalculator`, I saw two hours before the call that Trump would need to win 93% of the remaining Pennsylvania votes to equalize with Biden.
